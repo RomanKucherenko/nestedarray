@@ -1,0 +1,72 @@
+{
+  "result": {
+    "total": 100,
+    "items": [
+      {
+        "id": 1,
+        "cars": [
+          {
+            "id": 1,
+            "model": "tesla"
+          },
+          {
+            "id": 2,
+            "model": "bmw"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "cars": [
+          {
+            "id": 3,
+            "model": "tesla"
+          },
+          {
+            "id": 4,
+            "model": "bmw"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "cars": [
+          {
+            "id": 5,
+            "model": "tesla"
+          },
+          {
+            "id": 6,
+            "model": "bmw"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "cars": [
+          {
+            "id": 7,
+            "model": "tesla"
+          },
+          {
+            "id": 8,
+            "model": "bmw"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "cars": [
+          {
+            "id": 9,
+            "model": "tesla"
+          },
+          {
+            "id": 10,
+            "model": "bmw"
+          }
+        ]
+      }
+    ]
+  }
+}
